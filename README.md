@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/jtat"><img src="https://api.daily.dev/devcards/2fa8cb4c1f6f48cf8581be22a3021b18.png?r=udl" width="400" alt="Judy Tat's Dev Card"/></a>
-<a href="https://app.daily.dev/jtat"><img src="https://github.com/tatjudy/tatjudy/master/devcard.svg" width="400" alt="Judy Tat's Dev Card"/></a>
+<a href="https://app.daily.dev/jtat"><img src="https://github.com/tatjudy/tatjudy/blob/main/devcard.svg" width="400" alt="Judy Tat's Dev Card"/></a>
